@@ -1,4 +1,5 @@
-FROM debian:jessie
+FROM armv7/armhf-debian
+#FROM debian:jessie
 MAINTAINER David Personette <dperson@dperson.com>
 
 # Install transmission
